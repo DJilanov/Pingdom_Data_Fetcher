@@ -1,6 +1,6 @@
 # The easy configurable php data fetcher that can get all the info for your monitored servers directly from Pingdom API
 
-[![iPad screenshot](Screenshots/iPad-small.png)](Screenshots/iPad.png)
+[![Pingdom home](Screenshots/PingdomHome.png)](Screenshots/PingdomHome.png)
 
 [![iPhone screenshot](Screenshots/iPhone-small.png)](Screenshots/iPhone.png)
 
