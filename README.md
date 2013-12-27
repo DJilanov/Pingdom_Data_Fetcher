@@ -9,7 +9,7 @@ The easy configurable php data fetcher that can get all the info for your monito
 The mainly reason i made that plugin was because i lost few days searching in the net how to get the info directly from their API becouse i realy dont like their public status page... And in the end i had to read whole bunch of bad written documentation. I dont want you to do the same thing so ... just use the plugin ;) It is quite easy to be used. Set the cron how often you want to pick the data and just use it in your custom made status page ;)
 
 * Supports almost all of the servers ( use php curl that is basicly set on every Unix machine )
-* Supports easy to be handled ( just set the cron job that ill explain later and it auto fetch the data and save it )
+* Supports easy to be handled ( just set the cron job that ill explain later and it auto fetch the data and save it 
 * Can be used on every Web page
 * Customizable style ( its explained to lowest level so even whitout programing knowage you can do it ! )
 
@@ -17,7 +17,7 @@ The mainly reason i made that plugin was because i lost few days searching in th
 
 1. Go to the Terminal. 
 
-2. Type "crontab -e".
+2. Type "crontab -e" and choose nano.
 
 3. You will see this field
 
