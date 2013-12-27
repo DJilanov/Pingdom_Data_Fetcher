@@ -6,12 +6,12 @@ The easy configurable php data fetcher that can get all the info for your monito
 
 [![Pingdom home](Screenshots/PingdomHome.png)](Screenshots/PingdomHome.png)
 
-The mainly reason i made that plugin was because i lost few days searching in the net how to get the info directly from their API becouse i realy dont like their public status page... And in the end i had to read whole bunch of bad written documentation. I dont want you to do the same thing so ... just use the plugin ;) It is quite easy to be used. Set the cron how often you want to pick the data and just use it in your custom made status page ;)
+The main reason I created that plugin was because I lost a few days while searching through the web about how to get the info directly from their API, since I really dislike their public status page. I ended up having to read a bunch of poorly written documentation. I do not want the same thing for you... you can just use the plugin ;) It is quite easy to be used. Set the cron how often you want to pick the data and just use it in your custom made status page ;)
 
-* Supports almost all of the servers ( use php curl that is basicly set on every Unix machine )
-* Supports easy to be handled ( just set the cron job that ill explain later and it auto fetch the data and save it 
+* Supports almost all of the servers (uses php curl that is basically pre-set on every Unix machine)
+* Support is easy to be handled (just set the cron job that  I will explain about later and then auto fetch the data and save it)
 * Can be used on every Web page
-* Customizable style ( its explained to lowest level so even whitout programing knowage you can do it ! )
+* Customisable style (it is explained in a way which does not require any knowledge of programming to grasp)
 
 ### Installation
 
@@ -44,8 +44,8 @@ Where each value is for,
 
 7. There is inline documentation but ill still explain what to do.
 7.1. The row under comment 1 is app-key. You must get it from your Pingdom acc and put it here.
-7.2. The row under comment 2 is user. You must first time your username then the symbol ":" and then your password next to it.
-7.3. In the servers tab you type only the last numbers here and leave only the amounth of servers you need ( add or remove rows in the json )
+7.2. The row under comment 2 is for the user. You must first type your username, then the symbol ":" and finally your password next to it.
+7.3.  In the servers tab you only type the last numbers here and leave just the amount of servers you need (add or remove rows in the json)
 
 [![Cron home](Screenshots/servers.png)](Screenshots/Servers.png)
 
@@ -57,8 +57,7 @@ The result will be into the Plugin/storagePingdom.json that looks like this.
 
 [![Cron home](Screenshots/result.png)](Screenshots/result.png)
 
-where there is summary for each server. Into days there are the 10 days that pingdom returns you. Uptime is the total uptime for the day into seconds ( unix time ) , avgresponse is the average calltime and startime shows when the day started.
-
+There is a summary for each server. In "days" there are the 10 days that pingdom returns. "Uptime" is the total uptime for the day displayed in seconds (unix time), "avgresponse" is the average calltime and startime which shows when the day gets started.
 ## Requirements
 
 * PHP
