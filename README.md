@@ -27,7 +27,7 @@ The main reason I created that plugin was because I lost a few days while search
 
 [![Cron home](Screenshots/cron-target.png)](Screenshots/PingdomHome.png)
 
-Where each value stands for,
+Where each value stands for:
 
 1. Minute (0-59)
 2. Hours (0-23)
@@ -76,3 +76,5 @@ There is a summary for each server. "days" holds the 10 days that pingdom return
 ## License
 
 Pingdom Data Fetcher is available under the MIT license. See the LICENSE file for more info.
+
+## Special thanks to Emil Katzarski for the code assistance while creating it!
