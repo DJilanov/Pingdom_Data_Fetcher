@@ -78,3 +78,5 @@ There is a summary for each server. "days" holds the 10 days that pingdom return
 Pingdom Data Fetcher is available under the MIT license. See the LICENSE file for more info.
 
 ## Special thanks to Emil Katzarski for the code assistance while creating it!
+
+## Special thanks to Stefo Dantchovski for the documentation assistance while creating it!
