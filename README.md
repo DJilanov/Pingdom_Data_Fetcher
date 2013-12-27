@@ -69,7 +69,6 @@ where there is summary for each server. Into days there are the 10 days that pin
 
 [Dimitar Jilanov](http://jilanov.com)   
 [@DimitarJilanov](https://twitter.com/DimiturJilanov)
-[@DimitarJilanov](https://www.facebook.com/djilanov)
 
 ## License
 
