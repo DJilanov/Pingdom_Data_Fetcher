@@ -27,13 +27,13 @@ The mainly reason i made that plugin was because i lost few days searching in th
 
 [![Cron home](Screenshots/cron-target.png)](Screenshots/PingdomHome.png)
 
-Where,
+Where each value is for,
 
-1: Minute (0-59)
-2: Hours (0-23)
-3: Day (0-31)
-4: Month (0-12 [12 == December])
-5: Day of the week(0-7 [7 or 0 == sunday])
+1. Minute (0-59)
+2. Hours (0-23)
+3. Day (0-31)
+4. Month (0-12 [12 == December])
+5. Day of the week(0-7 [7 or 0 == sunday])
 /path/to/command - Script or command name to schedule
 
 5. Set the main php script that is into Plugin/get_pingdom_data.php to be runned atleast 1 time daily.
@@ -49,7 +49,7 @@ Where,
 
 [![Cron home](Screenshots/servers.png)](Screenshots/Servers.png)
 
-7.4. If you want to change soemthing first be sure you know what is JSON and if you dont know read here http://en.wikipedia.org/wiki/JSON
+7.4. If you want to change something first be sure you know what is JSON and if you dont know read here http://en.wikipedia.org/wiki/JSON
 
 #### Example Usage
 
