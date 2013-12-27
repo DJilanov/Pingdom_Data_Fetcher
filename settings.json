@@ -1,0 +1,18 @@
+{
+    "Pingdom": {
+        "###1":"This is the data access key you get from their website to connect with their api. The key bellow is dummy!!!",
+        "app-key":"App-Key: 1a2s2432dasf324asd213as",
+        "###2":"This is the user name : password combination you use for their site",
+        "user":"username@mailLocation.something:hereIsYourPassword",
+        "Servers":
+            {
+                "Server1":"WRITE THE SERVER 6 CHARACTER NUMBER AS NORMAL NUMBER NOT AS STRING. THE NUMBERS BELLOW ARE DUMMYES!!!",
+                "Server2":123456,
+                "Server3":135791,
+                "Server4":123456,
+                "Server5":135791,
+                "Server6":123456,
+                "Server7":135791
+            }
+    }
+}
