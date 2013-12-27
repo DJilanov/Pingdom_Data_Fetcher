@@ -34,7 +34,7 @@ Where each value is for,
 3. Day (0-31)
 4. Month (0-12 [12 == December])
 5. Day of the week(0-7 [7 or 0 == sunday])
-/path/to/command - Script or command name to schedule
+6. /path/to/command - Script or command name to schedule
 
 5. Set the main php script that is into Plugin/get_pingdom_data.php to be runned atleast 1 time daily.
 
