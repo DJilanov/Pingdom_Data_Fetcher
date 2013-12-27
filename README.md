@@ -60,7 +60,8 @@ The result will be into the Plugin/storagePingdom.json that looks like this.
 
 [![Cron home](Screenshots/result.png)](Screenshots/result.png)
 
-There is a summary for each server. In "days" there are the 10 days that pingdom returns. "Uptime" is the total uptime for the day displayed in seconds (unix time), "avgresponse" is the average calltime and startime which shows when the day gets started.
+There is a summary for each server. "days" holds the 10 days that pingdom returns as output. "Uptime" is the total uptime for the day displayed in seconds (unix time). "avgresponse" relates to the average required calltime and startime which displays when the day gets started.
+
 ## Requirements
 
 * PHP
