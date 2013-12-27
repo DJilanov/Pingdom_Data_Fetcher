@@ -43,8 +43,11 @@ Where each value is for,
 [![Settings json](Screenshots/settings.png)](Screenshots/settings.png)
 
 7. There is inline documentation but ill still explain what to do.
+
 7.1. The row under comment 1 is app-key. You must get it from your Pingdom acc and put it here.
+
 7.2. The row under comment 2 is for the user. You must first type your username, then the symbol ":" and finally your password next to it.
+
 7.3.  In the servers tab you only type the last numbers here and leave just the amount of servers you need (add or remove rows in the json)
 
 [![Cron home](Screenshots/servers.png)](Screenshots/Servers.png)
